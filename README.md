@@ -50,7 +50,6 @@ English | [中文](README-zh.md)
 ## What's not working:
 
 - Bluetooth 
-- Sleep & Wake up
 - 
 
 
