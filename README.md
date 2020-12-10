@@ -24,7 +24,7 @@ English | [中文](README-zh.md)
 
 ## Bootloader：
 
-**OpenCore 0.6.3**
+**OpenCore 0.6.4**
 
 
 
@@ -44,13 +44,15 @@ English | [中文](README-zh.md)
 - HDMI output
 - VGA output
 - HiDPI
+- Sleep / Wake up
 
 
 
 ## What's not working:
 
 - Bluetooth 
-- 
+
+
 
 
 
