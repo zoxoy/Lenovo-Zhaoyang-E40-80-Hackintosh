@@ -41,7 +41,6 @@ English | [中文](README-zh.md)
 - Battery Status
 - Builtin Camera
 - Builtin Card Reader
-- HDMI output
 - VGA output
 - HiDPI
 - Sleep / Wake up
@@ -51,7 +50,7 @@ English | [中文](README-zh.md)
 ## What's not working:
 
 - Bluetooth 
-
+- HDMI output
 
 
 
