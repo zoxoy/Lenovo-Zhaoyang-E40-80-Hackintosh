@@ -1,3 +1,8 @@
+### Because I no longer use this machine, the repository is out of maintenance. If you need to configure OpenCore on this machine, the configuration of this repository is for reference only, please do not directly use the files of this repository to boot macOS, but go to [OpenCorePkg releases](https://github.com/acidanthera /OpenCorePkg/releases) Download the latest version and configure it according to the relevant tutorial.
+
+------
+
+
 # Lenovo Zhaoyang E40-80 Hackintosh OpenCore
 
 
