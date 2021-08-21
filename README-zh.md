@@ -1,3 +1,7 @@
+### 因为本人已不再使用这台机器，所以本项目库停止维护。如果需要在这台机器上配置黑苹果，本项目库的配置仅供参考，请不要直接使用本项目库的文件进行引导 macOS，而是前往 [OpenCorePkg releases](https://github.com/acidanthera/OpenCorePkg/releases) 下载最新版本并根据相关教程进行配置。
+
+------
+
 # 联想 昭阳 E40-80 OpenCore 黑苹果引导文件
 
 [English](README.md) | 中文
